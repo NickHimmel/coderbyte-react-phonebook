@@ -1,3 +1,7 @@
+## Coderbyte React Phonebook challenge
+
+For this challenge you have to take a user's first name, last name, and phone number. Then display them in an alphabetical list. Built with react and react hooks.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
