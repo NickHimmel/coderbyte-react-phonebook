@@ -44,11 +44,15 @@ button {
   text-transform: uppercase;
 }
 
+table {
+  border-collapse: collapse;
+}
+
 thead {
   border-bottom: 1px solid #000;
 }
 
-th {
+th, td {
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 0.5px;
@@ -83,5 +87,6 @@ th {
 }
 
 .phone-list {
-  margin-top: 50px;
+  margin: 50px auto;
+  text-align: center;
 }
